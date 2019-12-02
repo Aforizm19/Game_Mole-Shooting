@@ -1,0 +1,42 @@
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.pdb
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csprojResolveAssemblyReference.cache
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.Cache
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.exe
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.pdb
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+C:\Users\thanhvie\Documents\VS2015\Game\Mole Shooter\Mole Shooter\bin\Debug\Resources\Mole1.png
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.exe
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.pdb
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\bin\Debug\Resources\Mole1.png
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.pdb
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csprojResolveAssemblyReference.cache
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+D:\VS2015\Mole Shooter\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.Cache
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\bin\Debug\Resources\Mole1.png
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.exe
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.pdb
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csprojAssemblyReference.cache
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.cache
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.exe
+C:\Users\Zhenya.DESKTOP-MRI2BEE\Downloads\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.pdb
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\bin\Debug\Resources\Mole1.png
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.exe
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\bin\Debug\Mole Shooter.pdb
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csprojAssemblyReference.cache
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.cache
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.csproj.CoreCompileInputs.cache
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.exe
+D:\КОПИИ\загрузки\Mole-Shooting-master\Mole Shooter\obj\Debug\Mole Shooter.pdb
